@@ -1,0 +1,4 @@
+     UID     PID    PPID  TTY        STIME COMMAND
+Anghelus    1180    1058 pty0     11:58:07 /usr/bin/ps
+Anghelus    1058    1057 pty0     11:19:45 /usr/bin/bash
+Anghelus    1057       1 ?        11:19:45 /usr/bin/mintty
